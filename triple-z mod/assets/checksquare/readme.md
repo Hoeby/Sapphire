@@ -1,6 +1,6 @@
 # Sapphire SP3 triple-z mod
 
-## Check if frame is square
+## Align extrusion profiles that they are square
 The base of the sapphire sp3 is a welded base. <br>
 On my sp3 i noticed, that the extrusion profiles where not square to each other.
 
