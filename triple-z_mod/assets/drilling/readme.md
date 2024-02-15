@@ -17,7 +17,7 @@ Remove the z-carriage and use the jig to drill the hole for the spindle. <br>
 
 The hole for the spindle has to be enlarged, that a thrust bearing can go tru the hole. <br>
 On mine i made them 20mm diameter. <br>
-This is how it looks, when all hole for the front steppes are done (1 side shown)
+This is how it looks, when all holes for the front steppes are done (1 side shown)
 <p align="center">
   <img width="400" src="../pictures/20240103_201842.jpg">
 </p>
