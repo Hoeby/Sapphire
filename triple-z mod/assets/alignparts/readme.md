@@ -2,10 +2,9 @@
 
 ## Align parts before drilling
 
-First start to mount the new MGN9H 300mm rails.
-To align them, i used an align tool.
-Search on internet for a tool you like.<br> 
-for example: <a href="https://www.yeggi.com/q/mgn9+alignment/">Align MGN9H tool</a>
+First start to mount the new MGN9H 300mm rails.<br>
+To align them, i used an align tool.<br>
+Search on internet for a tool you like, for example: <a href="https://www.yeggi.com/q/mgn9+alignment/">Align MGN9H tool</a>
 
 To make them square, i used aluminium tape. Just stick it on to rotate or tilt the extrusion profile, untill everything is square to each other
 <p align="center">
