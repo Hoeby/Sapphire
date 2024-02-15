@@ -24,7 +24,8 @@ After placing the stepper in the correct position, first put the thrust bearing 
 
 Next, place the axis mounting ring in place. <br>
 Push i good against the stepper and secure the axis mounting ring in place <br>
-When everything is in place, mount fit the z-stepper plate over it and secure everything together with M3x16mm screws.
+When everything is in place, mount fit the z-stepper plate over it and secure everything together with M3x16mm screws. <br>
+Repeat these steps for the other stepper motors. <br>
 <p align="center">
   <img width="400" src="../pictures/20240118_200029.jpg">
 </p>
