@@ -20,4 +20,4 @@ If this is not the case, check you alignement, don't drill before this is solved
   <img width="400" src="../pictures/20240103_192601.jpg">
 </p>
 
-Go to the next step: <a href="../alignparts/readme.md">Align the new parts and check before drilling</a>
+Go to the next step: <a href="../drilling/readme.md">Drilling the holes in the base</a>
