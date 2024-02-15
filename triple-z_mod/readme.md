@@ -13,7 +13,7 @@ Some parts in the pictures could look different, because i am still fine tuning 
 ## BOM list:
 3x  MGN9H linear rail, 300mm long <br>
 3x  nema 17 stepper, tr8 x 300mm (spindle and stepper are 1 part) <br>
-3x  POM Anti Backlash Nuts For Leadscrew (must fit your spindles)
+3x  POM Anti Backlash Nuts For Leadscrew (must fit your spindles) <br>
 3x  thrust bearing F8-16M (8x16x5mm) <br>
 3x  axis mounting ring (8x25x8mm) <br>
 24x SHDC m3x8mm screw <br>
