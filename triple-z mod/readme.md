@@ -11,4 +11,8 @@ For changing the sapphire SP3 to triple z, i tried to explain every step
 3x  nema 17 stepper, tr8 x 300mm (spindle and stepper are 1 part) <br>
 3x  thrust bearing F8-16M (8x16x5mm) <br>
 3x  axis mounting ring (8x25x8mm) <br>
-12x SHDC m3x16mm screw
+24x SHDC m3x8mm screw <br>
+8x  SHDC m3x12mm screw <br>
+4x  SHDC m3x14mm screw <br>
+12x SHDC m3x16mm screw <br>
+24x T-nut, spring loaded type for 20 series - M3 <br>
