@@ -1,6 +1,6 @@
 # Sapphire SP3 triple-z mod
 
-## Align parts before drilling
+## Align the new parts and check before drilling
 
 First start to mount the new MGN9H 300mm rails.<br>
 To align them, i used an align tool.<br>
