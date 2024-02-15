@@ -19,7 +19,7 @@ Place the stepper + filler plate in the correct position. <br>
 The next pictures are a little confusion, because the z-stepper plate is already mounted, but don't do that.<br><br>
 After placing the stepper in the correct position, first put the thrust bearing in place. <br>
 <p align="center">
-  <img width="400" src="../pictures/20240118_200019.jpg">
+  <img width="400" src="../pictures/20240118_200012.jpg">
 </p>
 
 Next, place the axis mounting ring in place. <br>
