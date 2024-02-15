@@ -9,7 +9,7 @@ To make them square, i used aluminium tape. Just stick it on to rotate or tilt t
   <img width="400" src="../pictures/20231231_110421.jpg">
 </p>
 
-When everything is square, to another check, put a profile between the profile and see if it touches both profiles correctly. <br>
+When everything is square, do another check, put a profile between the profile and see if it touches both profiles correctly. <br>
 Like shown in the red cirkel, the 2 arrows. If everything is square, there where to arrows are, there isn't shining light between. <br>
 If the test profile if not flush and there is light shining between the profiles, re-adjust everything.
 <p align="center">
