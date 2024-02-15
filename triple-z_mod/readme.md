@@ -1,6 +1,8 @@
 For changing the sapphire SP3 to triple z, i tried to explain every step
+<p align="center">
+  <img width="400" src="assets/pictures/20240213_113906.jpg">
+</p>
 
-assets/pictures/20240213_113906.jpg
 # Index:
 - <a href="assets/checksquare/readme.md">Align extrusion profiles that they are square</a>
 - <a href="assets/alignparts/readme.md">Align the new parts and check before drilling</a>
