@@ -10,7 +10,7 @@ Drill only the 2 holes that are closed to the screen side. <br>
 </p>
 
 When the first 2 holes are done, place some screws in the holes, that the z-stepper plate will not move. <br>
-Remove the z-carriage and drill use the jig to drill the hole for the spindle. <br>
+Remove the z-carriage and use the jig to drill the hole for the spindle. <br>
 <p align="center">
   <img width="400" src="../pictures/20240103_193627.jpg">
 </p>
