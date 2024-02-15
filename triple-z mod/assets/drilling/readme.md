@@ -1,13 +1,25 @@
 # Sapphire SP3 triple-z mod
 
-## Align extrusion profiles that they are square
-The base of the sapphire sp3 is a welded base. <br>
-On my sp3 i noticed, that the extrusion profiles where not square to each other.
+## Drilling the holes in the base
+Only do these steps, if you are sure the aligment is perfect. <br>
 
-To make them square, i used aluminium tape. Just stick it on to rotate or tilt the extrusion profile, untill everything is square to each other
+Start drilling the holes. Use the z-stepper plates as a jig. <br>
+Drill only the 2 holes that a closed to the screen side. <br>
 <p align="center">
-  <img width="400" src="../pictures/20231231_110421.jpg">
+  <img width="400" src="../pictures/20240103_192722.jpg">
 </p>
 
+When the first 2 holes are done, place some screws in the holes, that the z-stepper plate will not move. <br>
+Remove the z-carriage and drill use the jig to drill the hole for the spindle. <br>
+<p align="center">
+  <img width="400" src="../pictures/20240103_193627.jpg">
+</p>
+
+The hole for the spindle has to be enlarged, that a thrust bearing can go tru the hole. <br>
+On mine i made them 20mm diameter. <br>
+This is how it looks, when all hole for the front steppes are done (1 side shown)
+<p align="center">
+  <img width="400" src="../pictures/20240103_201842.jpg">
+</p>
 
 Go to the next step: <a href="../alignparts/readme.md">Align the new parts and check before drilling</a>
