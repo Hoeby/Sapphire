@@ -1,3 +1,6 @@
+# Sapphire SP3 triple-z mod
+
+# Check if frame is square
 The base of the sapphire sp3 is a welded base. <br>
 On my sp3 i noticed, that the extrusion profiles where not square to each other.
 
@@ -12,3 +15,5 @@ If the test profile if not flush and there is light shining between the profiles
 <p align="center">
   <img width="400" src="../pictures/20231231_160405.jpg">
 </p>
+
+Go to the next step: <a href="../alignparts/readme.md">Align the new parts and check before drilling</a>
