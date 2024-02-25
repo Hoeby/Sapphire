@@ -3,9 +3,9 @@
 ## Align the new parts and check before drilling
 
 First start to mount the new MGN9H 300mm rails.<br>
-For each rail you need:
-8x SHDC m3x8mm screw
-8x T-nut, spring loaded type for 20 series - M3
+For each rail you need: <br>
+8x SHDC m3x8mm screw <br>
+8x T-nut, spring loaded type for 20 series - M3 <br>
 To align them, i used an align tool.<br>
 Search on internet for a tool you like, for example: <a href="https://www.yeggi.com/q/mgn9+alignment/">Align MGN9H tool</a>
 
