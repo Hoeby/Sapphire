@@ -16,4 +16,4 @@ If the test profile if not flush and there is light shining between the profiles
   <img width="400" src="../pictures/20231231_160405.jpg">
 </p>
 
-Go to the next step: <a href="../step2_left-right_alignparts/readme.md">Align the new parts and check before drilling</a>
+Go to the next step: <a href="../step2_left-right_alignparts/readme.md">Front left and right new parts, check before drilling</a>
