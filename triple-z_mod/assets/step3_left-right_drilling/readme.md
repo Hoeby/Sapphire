@@ -28,4 +28,4 @@ This drill jig fits on the originale stepper holes. <br>
   <img width="400" src="../pictures/20240104_094700.jpg">
 </p>
 
-Go to the next step: <a href="../steppermount/readme.md">Mounting stepper motors</a>
+Go to the next step: <a href="../step4_rear_drilling/readme.md">Rear profile position, drilling the holes in the base</a>
