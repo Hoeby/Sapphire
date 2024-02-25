@@ -1,6 +1,10 @@
 # Sapphire SP3 triple-z mod
 
 ## Front left and right new parts, check before drilling
+Needed for these steps: <br>
+- 16x SHDC m3x8mm screw <br>
+- 16x T-nut, spring loaded type for 20 series - M3 <br>
+- 2x MGN9H alignment tool <br>
 
 These steps are for the front left and front right. The new extrusion on the back will follow later. <br>
 First start to mount the new MGN9H 300mm rails.<br>
