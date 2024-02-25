@@ -1,6 +1,10 @@
 # Sapphire SP3 triple-z mod
 
 ## Align extrusion profiles that they are square
+Needed for these steps: <br>
+- aluminium tape <br>
+- patience <br>
+
 The base of the sapphire sp3 is a welded base. <br>
 On my sp3 i noticed, that the extrusion profiles where not square to each other.
 
