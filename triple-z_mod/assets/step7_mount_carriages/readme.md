@@ -10,5 +10,5 @@ The parts in the front are mounted with SHDC M3x12 screws. <br>
 The parts in the rear is mounted with SHDC M3x14 screws. <br>
 
 <p align="center">
-  <img width="400" src="../pictures/20240103_202405.jpg">
+  <img width="400" src="../pictures/20240104_102458.jpg">
 </p>
