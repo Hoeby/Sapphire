@@ -1,7 +1,7 @@
 
 # Sapphire SP3 triple-z mod
 
-## Mounting rear profile position
+## Mounting rear profile
 Needed for these steps: <br>
 1x 2020 profile 303,0mm long <br>
 1x SHDC m6x20mm screw <br>
