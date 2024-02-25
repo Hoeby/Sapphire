@@ -9,7 +9,7 @@ Some parts in the pictures could look different, because i am still fine tuning 
 - <a href="assets/step2_left-right_alignparts/readme.md">Front left and right new parts, check before drilling</a>
 - <a href="assets/step3_left-right_drilling/readme.md">Front left and right, drilling the holes in the base</a>
 - <a href="assets/step4_rear_drilling/readme.md">Rear profile position, drilling the holes in the base</a>
-- <a href="assets/step6_rear_mounting/readme.md">Mounting rear profile position</a>
+- <a href="assets/step6_rear_mounting/readme.md">Mounting rear profile</a>
 - <a href="assets/step7_steppermount/readme.md">Mounting stepper motors</a>
 
 ## BOM list:
