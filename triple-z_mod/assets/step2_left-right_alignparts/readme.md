@@ -25,4 +25,4 @@ If this is not the case, check you alignement, don't drill before this is solved
   <img width="400" src="../pictures/20240103_192601.jpg">
 </p>
 
-Go to the next step: <a href="../drilling/readme.md">Drilling the holes in the base</a>
+Go to the next step: <a href="../step3_left-right_drilling/readme.md">Front left and right, drilling the holes in the base</a>
