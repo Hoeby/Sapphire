@@ -23,3 +23,10 @@ Some parts in the pictures could look different, because i am still fine tuning 
 4x  SHDC m3x14mm screw <br>
 12x SHDC m3x16mm screw <br>
 24x T-nut, spring loaded type for 20 series - M3 <br>
+
+### Profiles BOM list:
+1x 2020 profile 303,0mm long
+1x 2020 profile 334,5mm long
+1x 2020 profile 316,0mm long
+2x 2020 profile 225,0mm long
+1x 2020 profile 189,0mm long
