@@ -1,6 +1,6 @@
 # Sapphire SP3 triple-z mod
 
-## Align the new parts and check before drilling
+## Front left and right new parts, check before drilling
 
 First start to mount the new MGN9H 300mm rails.<br>
 For each rail you need: <br>
