@@ -19,7 +19,7 @@ Some parts in the pictures could look different, because i am still fine tuning 
 3x  thrust bearing F8-16M (8x16x5mm) <br>
 3x  axis mounting ring (8x25x8mm) <br>
 24x SHDC m3x8mm screw <br>
-8x  SHDC m3x12mm screw <br>
+20x  SHDC m3x12mm screw <br>
 4x  SHDC m3x14mm screw <br>
 12x SHDC m3x16mm screw <br>
 1x  SHDC m6x20mm screw <br>
