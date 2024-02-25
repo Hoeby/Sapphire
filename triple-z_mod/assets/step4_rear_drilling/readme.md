@@ -10,4 +10,4 @@ Enlarge the hole to 6mm <br>
   <img width="400" src="../pictures/20240104_094700.jpg">
 </p>
 
-Go to the next step: <a href="../step5_mount_rear/readme.md">Mounting rear profile position</a>
+Go to the next step: <a href="../step5_mount_rear/readme.md">Mounting rear profile</a>
