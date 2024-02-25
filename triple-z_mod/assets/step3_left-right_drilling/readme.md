@@ -22,10 +22,4 @@ This is how it looks, when all holes for the front steppes are done (1 side show
   <img width="400" src="../pictures/20240103_201842.jpg">
 </p>
 
-For the mounting the profile for the back extrusion, there is a drill jig made. <br>
-This drill jig fits on the originale stepper holes. <br>
-<p align="center">
-  <img width="400" src="../pictures/20240104_094700.jpg">
-</p>
-
 Go to the next step: <a href="../step4_rear_drilling/readme.md">Rear profile position, drilling the holes in the base</a>
