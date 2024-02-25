@@ -25,8 +25,8 @@ Some parts in the pictures could look different, because i am still fine tuning 
 24x T-nut, spring loaded type for 20 series - M3 <br>
 
 ### Profiles BOM list:
-1x 2020 profile 303,0mm long
-1x 2020 profile 334,5mm long
-1x 2020 profile 316,0mm long
-2x 2020 profile 225,0mm long
-1x 2020 profile 189,0mm long
+1x 2020 profile 303,0mm long <br>
+1x 2020 profile 334,5mm long <br>
+1x 2020 profile 316,0mm long <br>
+2x 2020 profile 225,0mm long <br>
+1x 2020 profile 189,0mm long <br>
