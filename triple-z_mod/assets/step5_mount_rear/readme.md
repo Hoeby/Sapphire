@@ -20,7 +20,7 @@ If you can't get it aligned propperly, then enlarge the hole in the base step by
 
 Place 2020 profile 334,5mm on top of the vertical profile and secure it 4x 2020 corner brackets<br>
 Normally these bracket have a 5mm hole. Use M5 x 10mm screw and m5 hammernut, to mount the brackets <br>
-Go to the next step: <a href="../../.stl_files/corner_bracket">The 3d printed corner brackets can be found here</a>
+<a href="../../.stl_files/corner_bracket">The 3d printed corner brackets can be found here</a> <br>
 Be sure every is square mounted <br>
 <p align="center">
   <img width="400" src="../pictures/20240104_102151.jpg">
