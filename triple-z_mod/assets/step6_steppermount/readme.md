@@ -35,3 +35,5 @@ Repeat these steps for the other stepper motors. <br>
 <p align="center">
   <img width="400" src="../pictures/20240118_200029.jpg">
 </p>
+
+Go to the next step: <a href="../step7_mount_carriages/readme.md">Mount rail carriages</a>
