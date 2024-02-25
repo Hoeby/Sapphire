@@ -1,6 +1,12 @@
 # Sapphire SP3 triple-z mod
 
 ## Mounting stepper motors
+Needed for these steps:
+- 12x SHDC m3x12mm screw
+- 3x nema 17 stepper, tr8 x 300mm (spindle and stepper are 1 part)
+- 3x POM Anti Backlash Nuts For Leadscrew (must fit your spindles)
+- 3x thrust bearing F8-16M (8x16x5mm)
+- 3x axis mounting ring (8x25x8mm)
 
 Mounting the steppers can be a little tricky. <br>
 I made the holes for the thrust bearing pretty small. That the axis mounting ring doesn't fit tru this hole. <br>
