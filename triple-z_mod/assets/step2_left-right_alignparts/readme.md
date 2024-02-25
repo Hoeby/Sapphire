@@ -2,6 +2,7 @@
 
 ## Front left and right new parts, check before drilling
 
+These steps are for the front left and front right. The new extrusion on the back will follow later. <br>
 First start to mount the new MGN9H 300mm rails.<br>
 For each rail you need: <br>
 8x SHDC m3x8mm screw <br>
