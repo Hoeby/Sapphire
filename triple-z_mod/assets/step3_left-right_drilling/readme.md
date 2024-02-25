@@ -5,6 +5,7 @@ Only do these steps, if you are sure the aligment is perfect. <br>
 
 Start drilling the holes. Use the z-stepper plates as a jig. <br>
 Drill only the 2 holes that are closed to the screen side. <br>
+The holes need to be 3mm in diameter. <br>
 <p align="center">
   <img width="400" src="../pictures/20240103_192722.jpg">
 </p>
