@@ -1,6 +1,6 @@
 # Sapphire SP3 triple-z mod
 
-## Drilling the holes in the base
+## Front left and right, drilling the holes in the base
 Only do these steps, if you are sure the aligment is perfect. <br>
 
 Start drilling the holes. Use the z-stepper plates as a jig. <br>
