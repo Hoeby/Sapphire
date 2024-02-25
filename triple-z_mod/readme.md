@@ -7,7 +7,7 @@ Some parts in the pictures could look different, because i am still fine tuning 
 # Index:
 - <a href="assets/step1_checksquare/readme.md">Align extrusion profiles that they are square</a>
 - <a href="assets/step2_left-right_alignparts/readme.md">Front left and right new parts, check before drilling</a>
-- <a href="assets/step3_drilling/readme.md">Drilling the holes in the base</a>
+- <a href="assets/step3_drilling/readme.md">Front left and right, drilling the holes in the base</a>
 - <a href="assets/step4_steppermount/readme.md">Mounting stepper motors</a>
 
 ## BOM list:
