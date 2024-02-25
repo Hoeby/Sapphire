@@ -15,4 +15,4 @@ If you can't get it aligned propperly, then enlarge the hole in the base step by
   <img width="400" src="../pictures/20240104_095440.jpg">
 </p>
 
-Go to the next step: <a href="../step6_rear_drilling/readme.md">Mounting stepper motors</a>
+Go to the next step: <a href="../step6_steppermount/readme.md">Mounting stepper motors</a>
