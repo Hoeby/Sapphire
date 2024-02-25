@@ -5,10 +5,10 @@ Some parts in the pictures could look different, because i am still fine tuning 
 </p>
 
 # Index:
-- <a href="assets/checksquare/readme.md">Align extrusion profiles that they are square</a>
-- <a href="assets/alignparts/readme.md">Align the new parts and check before drilling</a>
-- <a href="assets/drilling/readme.md">Drilling the holes in the base</a>
-- <a href="assets/steppermount/readme.md">Mounting stepper motors</a>
+- <a href="assets/step1_checksquare/readme.md">Align extrusion profiles that they are square</a>
+- <a href="assets/step2_alignparts/readme.md">Align the new parts and check before drilling</a>
+- <a href="assets/step3_drilling/readme.md">Drilling the holes in the base</a>
+- <a href="assets/step4_steppermount/readme.md">Mounting stepper motors</a>
 
 ## BOM list:
 3x  MGN9H linear rail, 300mm long <br>
