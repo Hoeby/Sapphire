@@ -1,6 +1,8 @@
 For changing the sapphire SP3 to triple z, i tried to explain every step <br>
 Some parts in the pictures could look different, because i am still fine tuning parts. <br>
 It is not a commercial modification, use it on you own risk. If there are any deviations, these cannot be recovered. <br>
+
+This mod isn't going about how to wire everything, just the mechanical part. <br>
 <p align="center">
   <img width="400" src="assets/pictures/20240213_113906.jpg">
 </p>
