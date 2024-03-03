@@ -16,9 +16,8 @@ The length of these screws depent on the aluminium bed you will use.
   <img width="400" src="../pictures/20240226_180537.jpg">
 </p>
 
-The mechanical mod is finished. 
-To give you a start, i added the necessary config i am using for z-tilt.
-This config is not a complete config for klipper. Only the values needed for z-tilt.
-I am using a btt octopus mainboard, check you mainboard pins in your config
-https://github.com/Hoeby/Sapphire/blob/main/triple-z_mod/assets/klipper_config/z_stepper.md
+The mechanical mod is finished. <br>
+To give you a start, i added the necessary config i am using for z-tilt. <br>
+This config is not a complete config for klipper. Only the values needed for z-tilt. <br>
+I am using a btt octopus mainboard, check you mainboard pins in your config <br>
 <a href="../klipper_config/z_stepper.md">Z-tilt start config</a>
