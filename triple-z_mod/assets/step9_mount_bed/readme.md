@@ -1,6 +1,6 @@
 # Sapphire SP3 triple-z mod
 
-## Making gantry
+## Mounting bed
 Needed for these steps: <br>
 - 4x SHDC m3x??mm screw (depending on used bed)<br>
 - 4x T-nut, spring loaded type for 20 series - M3 <br>
