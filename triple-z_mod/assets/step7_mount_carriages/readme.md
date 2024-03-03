@@ -12,3 +12,5 @@ The parts in the rear is mounted with SHDC M3x14 screws. <br>
 <p align="center">
   <img width="400" src="../pictures/20240104_102458.jpg">
 </p>
+
+Go to the next step: <a href="../step8_gantry/readme.md">Making Gantry</a>
