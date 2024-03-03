@@ -2,7 +2,7 @@
 
 ## Making gantry
 Needed for these steps: <br>
-- 6x  BHCS m3x6mm screw <br>
+- 9x  BHCS m3x6mm screw <br>
 - 6x SHDC m3x20mm screw <br>
 - 16x BHCS m5x10mm screw <br>
 - 2x  SHDC m6x20mm screw <br>
