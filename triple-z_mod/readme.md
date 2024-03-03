@@ -24,10 +24,11 @@ Some parts in the pictures could look different, because i am still fine tuning 
 20x  SHDC m3x12mm screw <br>
 4x  SHDC m3x14mm screw <br>
 12x SHDC m3x16mm screw <br>
+20x  BHCS m5x10mm screw <br>
 1x  SHDC m6x20mm screw <br>
-8x  BHCS m5x10mm screw <br>
 1x  m6 washer <br>
 24x T-nut, spring loaded type for 20 series - M3 <br>
+12x T-nut, spring loaded type for 20 series - M5 <br>
 8x hammernut for 20 series - M5 <br>
 
 ### Profiles BOM list:
