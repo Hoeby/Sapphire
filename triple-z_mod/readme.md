@@ -12,6 +12,7 @@ Some parts in the pictures could look different, because i am still fine tuning 
 - <a href="assets/step5_mount_rear/readme.md">Mounting rear profile</a>
 - <a href="assets/step6_steppermount/readme.md">Mounting stepper motors</a>
 - <a href="assets/step7_mount_carriages/readme.md">Mount rail carriages</a>
+- <a href="assets/step8_gantry/readme.md">Making gantry</a>
 
 ## BOM list:
 3x  MGN9H linear rail, 300mm long <br>
