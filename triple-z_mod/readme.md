@@ -14,6 +14,7 @@ It is not a commercial modification, use it on you own risk. If there are any de
 - <a href="assets/step6_steppermount/readme.md">Mounting stepper motors</a>
 - <a href="assets/step7_mount_carriages/readme.md">Mount rail carriages</a>
 - <a href="assets/step8_gantry/readme.md">Making gantry</a>
+- <a href="assets/step9_mount_bed/readme.md">Mounting bed</a>
 
 ## BOM list:
 3x  MGN9H linear rail, 300mm long <br>
