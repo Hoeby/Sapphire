@@ -5,8 +5,10 @@ Needed for these steps: <br>
 - 9x  BHCS m3x6mm screw <br>
 - 6x SHDC m3x20mm screw <br>
 - 18x BHCS m5x10mm screw <br>
+- 3x SHDC m5x20mm screw <br>
 - 2x  SHDC m6x20mm screw <br>
 - 18x T-nut, spring loaded type for 20 series - M5 <br>
+- 3x nut - M5 <br>
 - 6x Threaded inserts M3x5 <br>
 - 3x IGUS eglm05 (cheaper option: GE5C bearing) <br>
 - 1x 2020 profile 316,0mm long <br>
@@ -38,10 +40,17 @@ The 316mm profile is on the save side, that the length had the be a little longe
 Therefor there are 2020 profile spacers in the .stl folder. How much needed depends on your printer. <br>
 <a href="../../.stl_files/2020_profile_spacers">Link to .stl spacers folder</a>
 
-On the back the part needs to be mounted with M5
-
-
 <p align="center">
   <img width="400" src="../pictures/20240226_180537.jpg">
   <img width="400" src="../pictures/20240226_180545.jpg">
 </p>
+
+On the back the part needs to be mounted with 2x m5x10 screws and 2x spring loaded m5 nut. <br>
+Forgot to make a picture when assembly the part, hope this makes clear. <br>
+<p align="center">
+  <img width="400" src="../pictures/20240303_120000.jpg">
+</p>
+
+When gantry is finished. Place it in the printer and see if the holes align. <br>
+If they align, mount the gantry with 3x M5x20 and M5 nuts.
+
