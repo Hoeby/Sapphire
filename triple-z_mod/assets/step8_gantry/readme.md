@@ -13,7 +13,5 @@ These are the sizes for mounting a bed which has hole spacing 209x209mm. <br>
 If you have hole spacing 170x170mm, then the 189,0mm profile has to be changed to 150,0mm long. <br>
 The brackets shown, are the minimum brackets which needs to be mounted. <br>
 <p align="center">
-  <img width="400" src="../pictures/gantry.jpg">
+  <img width="400" src="../pictures/gantry.png">
 </p>
-
-;;::##//--Go to the next step: <a href="../step8_gantry/readme.md">Making Gantry</a>
