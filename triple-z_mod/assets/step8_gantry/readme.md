@@ -4,9 +4,9 @@
 Needed for these steps: <br>
 - 9x  BHCS m3x6mm screw <br>
 - 6x SHDC m3x20mm screw <br>
-- 16x BHCS m5x10mm screw <br>
+- 18x BHCS m5x10mm screw <br>
 - 2x  SHDC m6x20mm screw <br>
-- 16x T-nut, spring loaded type for 20 series - M5 <br>
+- 18x T-nut, spring loaded type for 20 series - M5 <br>
 - 6x Threaded inserts M3x5 <br>
 - 3x IGUS eglm05 (cheaper option: GE5C bearing) <br>
 - 1x 2020 profile 316,0mm long <br>
@@ -37,6 +37,8 @@ Place the spring loaded M5 nuts and M5 screws in place. Align everything to the 
 The 316mm profile is on the save side, that the length had the be a little longer. <br>
 Therefor there are 2020 profile spacers in the .stl folder. How much needed depends on your printer. <br>
 <a href="../../.stl_files/2020_profile_spacers">Link to .stl spacers folder</a>
+
+On the back the part needs to be mounted with M5
 
 
 <p align="center">
