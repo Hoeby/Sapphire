@@ -36,6 +36,7 @@ It is not a commercial modification, use it on you own risk. If there are any de
 28x T-nut, spring loaded type for 20 series - M3 <br>
 18x T-nut, spring loaded type for 20 series - M5 <br>
 3x nut - M5 <br>
+4x thumb nut M5 <br>
 8x hammernut for 20 series - M5 <br>
 6x Threaded inserts M3x5 <br>
 3x IGUS eglm05 (cheaper option: GE5C bearing) <br>
