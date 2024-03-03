@@ -54,3 +54,5 @@ Forgot to make a picture when assembly the part, hope this makes clear. <br>
 When gantry is finished. Place it in the printer and see if the holes align. <br>
 If they align, mount the gantry with 3x M5x20 and M5 nuts.
 
+Go to the next step: <a href="../step9_mount_bed/readme.md">Mounting bed</a>
+
