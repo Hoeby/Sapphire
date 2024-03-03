@@ -25,12 +25,14 @@ It is not a commercial modification, use it on you own risk. If there are any de
 20x  SHDC m3x12mm screw <br>
 4x  SHDC m3x14mm screw <br>
 12x SHDC m3x16mm screw <br>
+6x SHDC m3x20mm screw <br>
 20x  BHCS m5x10mm screw <br>
-1x  SHDC m6x20mm screw <br>
+3x  SHDC m6x20mm screw <br>
 1x  m6 washer <br>
 24x T-nut, spring loaded type for 20 series - M3 <br>
 12x T-nut, spring loaded type for 20 series - M5 <br>
 8x hammernut for 20 series - M5 <br>
+6x Threaded inserts M3x5 <br>
 
 ### Profiles BOM list:
 1x 2020 profile 303,0mm long <br>
