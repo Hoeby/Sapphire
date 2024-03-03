@@ -17,6 +17,11 @@ This mod isn't going about how to wire everything, just the mechanical part. <br
 - <a href="assets/step7_mount_carriages/readme.md">Mount rail carriages</a>
 - <a href="assets/step8_gantry/readme.md">Making gantry</a>
 - <a href="assets/step9_mount_bed/readme.md">Mounting bed</a>
+<br>
+To give you a start, i added the necessary config i am using for z-tilt. <br>
+This config is not a complete config for klipper. Only the values needed for z-tilt. <br>
+I am using a btt octopus mainboard, check you mainboard pins in your config. <br>
+<a href="assets/klipper_config/z_stepper.md">Very basic config for Z-tilt in klipper</a>
 
 ## BOM list:
 3x  MGN9H linear rail, 300mm long <br>
