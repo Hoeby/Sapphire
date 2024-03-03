@@ -34,6 +34,10 @@ Place the IGUS eglm05 in it hole and secure it with 3x m3x6, be carefull with th
 Align the assebled part on the profile and start with the M6x20 screw on the side. Do not fully tighten. <br>
 Place the spring loaded M5 nuts and M5 screws in place. Align everything to the profile and tighten the screws. <br>
 
+The 316mm profile is on the save side, that the length had the be a little longer. <br>
+Therefor there are 2020 profile spacers in the .stl folder. How much needed depends on your printer. <br>
+https://github.com/Hoeby/Sapphire/tree/main/triple-z_mod/.stl_files/2020_profile_spacers
+
 <p align="center">
   <img width="400" src="../pictures/20240226_180537.jpg">
   <img width="400" src="../pictures/20240226_180545.jpg">
