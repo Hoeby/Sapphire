@@ -50,4 +50,34 @@ uart_pin: PF2 <br>
 interpolate: False <br>
 run_current: 0.6 <br>
 sense_resistor: 0.110 <br>
-stealthchop_threshold: 0
+stealthchop_threshold: 0 <br>
+ <br>
+[probe] <br>
+##Inductive Probe <br>
+pin: PG10 <br>
+#-------------------------------------------------------------------- <br>
+x_offset: 0 <br>
+y_offset: 0 <br>
+z_offset: 3.640 <br>
+speed: 10.0 <br>
+samples: 3 <br>
+samples_result: median <br>
+sample_retract_dist: 3.0 <br>
+samples_tolerance: 0.006 <br>
+samples_tolerance_retries: 3 <br>
+ <br>
+[z_tilt] <br>
+##Use Z_TILT_ADJUST to level the bed <br>
+##z_positions: Location of toolhead <br>
+z_positions: <br>
+    -46, -52 <br>
+    112, 214 <br>
+    270, -52 <br>
+points: <br>
+    30, 30 <br>
+    112, 220 <br>
+    202, 30 <br>
+speed: 100 <br>
+horizontal_move_z: 10 <br>
+retries: 5 <br>
+retry_tolerance: 0.0075 <br>
