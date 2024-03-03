@@ -36,7 +36,8 @@ Place the spring loaded M5 nuts and M5 screws in place. Align everything to the 
 
 The 316mm profile is on the save side, that the length had the be a little longer. <br>
 Therefor there are 2020 profile spacers in the .stl folder. How much needed depends on your printer. <br>
-https://github.com/Hoeby/Sapphire/tree/main/triple-z_mod/.stl_files/2020_profile_spacers
+<a href="../../.stl_files/2020_profile_spacers">Link to .stl spacers folder</a>
+
 
 <p align="center">
   <img width="400" src="../pictures/20240226_180537.jpg">
