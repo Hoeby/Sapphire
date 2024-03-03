@@ -21,7 +21,7 @@ It is not a commercial modification, use it on you own risk. If there are any de
 3x  POM Anti Backlash Nuts For Leadscrew (must fit your spindles) <br>
 3x  thrust bearing F8-16M (8x16x5mm) <br>
 3x  axis mounting ring (8x25x8mm) <br>
-6x  BHCS m3x6mm screw <br>
+9x  BHCS m3x6mm screw <br>
 24x SHDC m3x8mm screw <br>
 20x  SHDC m3x12mm screw <br>
 4x  SHDC m3x14mm screw <br>
